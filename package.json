@@ -15,7 +15,6 @@
   },
   "author": "JOTAGEP",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^7.2.5",
     "concat": "^1.0.3",
